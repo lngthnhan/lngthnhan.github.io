@@ -1,0 +1,364 @@
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/default-favicon.ico
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\default-favicon.ico
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-f88491ffe3410ea1-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\cldr-resource-pack-f88491ffe3410ea1-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-e512562c50877eb0-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\common-e512562c50877eb0-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-9b8bee2d8b8b215b-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\common-vendors-9b8bee2d8b8b215b-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-54bab8bb8a15366b-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\common-vendors-stable-54bab8bb8a15366b-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-088ec0120fdbcfed-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\extract-css-moment-js-vendor-088ec0120fdbcfed-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-28d15d138887a8bb-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\extract-css-runtime-28d15d138887a8bb-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-811f333d4fc0f408-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\extract-css-runtime-811f333d4fc0f408-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-87b519b1b32a79ad-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\extract-css-runtime-87b519b1b32a79ad-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-4895744c4cbc41d8-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\performance-4895744c4cbc41d8-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/user-account-core-a7ffc4cf98a9336d-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\scripts-compressed\user-account-core-a7ffc4cf98a9336d-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/styles-compressed/user-account-core-80af1a320767be58-min.en-US.css
+File Name: C:\Downloaded Web Sites\www.ancom.au\universal\styles-compressed\user-account-core-80af1a320767be58-min.en-US.css
+Content Type: text/css
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\www.ancom.au\index-1.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=1000w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-5.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=100w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-1.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=1500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-6.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=2500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-7.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=300w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-2.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-3.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/050f53d3-bd0b-4b48-9492-422eb2c0bc56/_DSC6385.JPG?format=750w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\050f53d3-bd0b-4b48-9492-422eb2c0bc56\_DSC6385-4.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=1000w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-5.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=100w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-1.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=1500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-6.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=2500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-7.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=300w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-2.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-3.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/a1bdf031-74a8-42e6-a8a5-061373b530b5/_DSC6373.JPG?format=750w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\a1bdf031-74a8-42e6-a8a5-061373b530b5\_DSC6373-4.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=1000w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-5.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=100w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-1.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=1500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-6.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=2500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-7.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=300w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-2.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-3.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/b63ae5f7-11f9-4663-be6f-ac536ec23756/_DSC6373.JPG?format=750w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\b63ae5f7-11f9-4663-be6f-ac536ec23756\_DSC6373-4.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=1000w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-5.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=100w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-1.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=1500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-6.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=2500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-7.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=300w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-2.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=500w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-3.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66c2996e0dbc5f0ef937894f/df263b4e-9533-4613-a1b5-c64e62f03794/_DSC6385.JPG?format=750w
+File Name: C:\Downloaded Web Sites\www.ancom.au\content\v1\66c2996e0dbc5f0ef937894f\df263b4e-9533-4613-a1b5-c64e62f03794\_DSC6385-4.JPG
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/versioned-site-css/66c2996e0dbc5f0ef937894f/4/5c5a519771c10ba3470d8101/66c2996e0dbc5f0ef9378957/1649/site.css
+File Name: C:\Downloaded Web Sites\www.ancom.au\static\versioned-site-css\66c2996e0dbc5f0ef937894f\4\5c5a519771c10ba3470d8101\66c2996e0dbc5f0ef9378957\1649\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.3211cb10ca836d332f8a257681734318.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.3211cb10ca836d332f8a257681734318.js
+Content Type: application/javascript
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1749578172414-BR2HRM5QY85P3RNH0UVV/static.css
+File Name: C:\Downloaded Web Sites\www.ancom.au\static\vta\5c5a519771c10ba3470d8101\versioned-assets\1749578172414-BR2HRM5QY85P3RNH0UVV\static.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/ik/Zhv5JxCE6x0amMkOuAqzIBG4f6AW2ymao4Z6cVGk-Y9feCJgfFHN4UJLFRbh52jhWDjhjDJo5QZ8wesKjDmcwemc5Qwa52qXZyGMJ6lzS1gGZWmDOWgkdkJZdcmuZPuGjABDOAikdas8ShClZe8DSeUypPGHf50rMsMMeMb6MKGHf5crMsMMeMS6MKGHf57rMsMMeMt6MKGHfw-XMyMgeMb6MKGHfwKXMyMgeM96MKGHfwkXMyMgeMS6MKGHfwpXMyMgeMt6MKGHfwcXMyMgeMv6MKGHfwhXMyMgegI6MTMgutRcl3j.js
+File Name: C:\Downloaded Web Sites\www.ancom.au\ik\Zhv5JxCE6x0amMkOuAqzIBG4f6AW2ymao4Z6cVGk-Y9feCJgfFHN4UJLFRbh52jhWDjhjDJo5QZ8wesKjDmcwemc5Qwa52qXZyGMJ6lzS1gGZWmDOWgkdkJZdcmuZPuGjABDOAikdas8ShClZe8DSeUypPGHf50rMsMMeMb6MKGHf5crMsMMeMS6MKGHf57rMsMMeMt6MKGHfw-XMyMgeMb.js
+Content Type: text/javascript
+
+Uri: https://www.ancom.au/
+File Name: C:\Downloaded Web Sites\www.ancom.au\index.htm
+Content Type: text/html
+
+Uri: https://www.ancom.au/cart
+File Name: C:\Downloaded Web Sites\www.ancom.au\cart.html
+Content Type: text/html
+
+Uri: https://www.ancom.au/drink
+File Name: C:\Downloaded Web Sites\www.ancom.au\drink.html
+Content Type: text/html
+
+Uri: https://www.ancom.au/eat
+File Name: C:\Downloaded Web Sites\www.ancom.au\eat.html
+Content Type: text/html
+
+Uri: https://www.ancom.au/visit
+File Name: C:\Downloaded Web Sites\www.ancom.au\visit.html
+Content Type: text/html
+
